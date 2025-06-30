@@ -1,6 +1,6 @@
 pipeline { //pipeline as code - Jenkinsfile
     agent{
-        label "gfgpython"
+        label "linux"
     }
 
     stages { //collection of your jobs
