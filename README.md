@@ -1,6 +1,6 @@
 # SnakeGame
 
-Author : Om Alatagi ECE-Honours
+Author : Om Vinod Alatagi ECE-Honours
 (CKA & AWS Certified)
 DevOps engineer
 Vasavi College Of Engineering Hyderabad (VCE Hyd) - 500049
