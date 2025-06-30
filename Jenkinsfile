@@ -6,7 +6,7 @@ pipeline { //pipeline as code - Jenkinsfile
     stages { //collection of your jobs
         stage('Download the source code') { //stage ~=job
             steps {
-               git branch: 'main', url: 'https://github.com/sudhanshuvlog/SnakeGame.git'
+               git branch: 'main', url: 'https://github.com/om-alatagi/snakeGameDemo.git'
                echo "code downloaded succesfully"
             }
         }
