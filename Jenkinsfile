@@ -1,6 +1,6 @@
 pipeline { //pipeline as code - Jenkinsfile
     agent{
-        label "linux"
+        label "linux"   // changed the worker node label
     }
 
     stages { //collection of your jobs
